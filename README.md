@@ -1,1 +1,3 @@
-# Code_train
+# Mediapipe_Learning
+
+Learning to use mediapipe
