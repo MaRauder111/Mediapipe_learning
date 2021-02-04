@@ -1,5 +1,7 @@
 # Running medipipe #
 
+- Specifying a specific version of bazel for my working example
+
 ## Check for JAVA ##
 
 - `JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"`
